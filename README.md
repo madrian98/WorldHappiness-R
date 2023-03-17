@@ -12,3 +12,44 @@ Report and datasets are available at: https://worldhappiness.report/
 Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/madrian98/WorldHappiness-R/b779c0a4e166554f5fd0c8f29a5baaa7edc34e19?urlpath=lab%2Ftree%2FWorld%20Happiness%20Data%20Analysis%20(R).ipynb)
 
 # Example
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/World%20Map%20-%20logged%20GDP.PNG" />
+  World Map - Logged GDP 2021
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/Different%20Regression%20Algorithms.PNG" />
+  Comparing different regression algorithms
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/Random%20Forest%20Regression.PNG" />
+  Random forest regression
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/SVR%20regression.PNG" />
+  Support vector regression (SVR)
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/Decision%20Tree%20Regression.PNG" />
+  Decision tree regression
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/K-means%20clustering.png" />
+  K-means clustering
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/DBSCAN%20clustering.png" />
+  Density-based spatial clustering of applications with noise (DBSCAN)
+</p>
+
+<p align="center">
+  <img src="https://github.com/madrian98/WorldHappiness-R/blob/main/README_Images/C-means%20clustering.png" />
+  C-means clustering (Fuzzy clustering)
+</p>
+
