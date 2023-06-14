@@ -11,6 +11,17 @@ Report and datasets are available at: https://worldhappiness.report/
 # Interactive notebook version
 Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/madrian98/WorldHappiness-R/b779c0a4e166554f5fd0c8f29a5baaa7edc34e19?urlpath=lab%2Ftree%2FWorld%20Happiness%20Data%20Analysis%20(R).ipynb)
 
+# 🖥️ **Technology stack**  
+
+![Dplyr](https://img.shields.io/badge/Dplyr-%23150458.svg?style=for-the-badge&logo=Dplyr&logoColor=white)
+![Janitor](https://img.shields.io/badge/Janitor-%23013243.svg?style=for-the-badge&logo=Janitor&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-05122A?style=for-the-badge&logo=ggplot2&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Caret](https://img.shields.io/badge/Caret-F80000?style=for-the-badge&logo=Caret&logoColor=white) 
+![rworldmap](https://img.shields.io/badge/rworldmap-%23F7931E.svg?style=for-the-badge&logo=rworldmap&logoColor=white) 
+![leaflet](https://img.shields.io/badge/Leaflet-%233F4F75.svg?style=for-the-badge&logo=Leaflet&logoColor=green)
+
+
 # Example
 
 <p align="center">
