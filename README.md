@@ -13,6 +13,8 @@ Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](h
 
 # 🖥️ **Technology stack**  
 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=bash&logoColor=white)
 ![Dplyr](https://img.shields.io/badge/Dplyr-%23150458.svg?style=for-the-badge&logo=Dplyr&logoColor=white)
 ![Janitor](https://img.shields.io/badge/Janitor-%23013243.svg?style=for-the-badge&logo=Janitor&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-05122A?style=for-the-badge&logo=ggplot2&logoColor=black)
